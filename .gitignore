@@ -1,0 +1,29 @@
+# Build artifacts
+build/
+*.o
+*.d
+
+# Simulation outputs
+*.vcd
+*.fsdb
+*.vpd
+simv
+simv.daidir/
+csrc/
+
+# Editor and IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tool-generated files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
